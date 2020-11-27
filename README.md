@@ -1,6 +1,7 @@
 ### Hi there 👋
-![image title](https://rushter.com/counter.svg)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![image title](https://rushter.com/counter.svg
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 <!--
 **KaleidoscopeIM/KaleidoscopeIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
