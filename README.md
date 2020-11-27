@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on two projects of USF-helth under Dr. Usha Menon.
+Currently, I am pursuing a master's degree in computer science from the University of South Florida and expecting to receive a degree in Dec 2020.
+
+🔭 I’m currently working on two projects of USF-health.
 * TIMS - First responders cancer education program - https://cancerfreeheroes.com
 * USF-HSRC - USF Health survey registry of COVID-19 - https://livingwellduringcovid.org
 
@@ -11,7 +13,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=KaleidoscopeIM)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaleidoscopeIM&theme=tokyonight)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaleidoscopeIM&show_icons=true&theme=tokyonight)
 
 <!--
