@@ -1,5 +1,15 @@
 ### Hi there 👋
-![image title](https://rushter.com/counter.svg
+
+🔭 I’m currently working on two projects of USF-helth under Dr. Usha Menon.
+* TIMS - First responders cancer education program - cancerfreeheroes.com
+* USF-HSRC - USF Health survey registry of COVID-19 - livingwellduringcovid.org
+
+📫 How to reach me: 
+* +1 813-605-9772
+* gautamsainiusf@gmail.com
+
+![image title](https://rushter.com/counter.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 <!--
