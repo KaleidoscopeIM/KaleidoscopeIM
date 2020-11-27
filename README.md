@@ -10,6 +10,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KaleidoscopeIM)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaleidoscopeIM&show_icons=true&theme=tokyonight)
+
 <!--
 **KaleidoscopeIM/KaleidoscopeIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
