@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently, I am pursuing a master's degree in computer science from the University of South Florida and expecting to receive a degree in Dec 2020.
+My name is Gautam and I am pursuing a master's degree in computer science from the University of South Florida and expecting to receive a degree in Dec 2020.
 
 🔭 I’m currently working on two projects of USF-health.
 * TIMS - First responders cancer education program - https://cancerfreeheroes.com
