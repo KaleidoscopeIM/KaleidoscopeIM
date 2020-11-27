@@ -8,6 +8,7 @@
 * +1 813-605-9772
 * gautamsainiusf@gmail.com
 
+![](https://visitor-badge.laobi.icu/badge?page_id=KaleidoscopeIM)
 
 <!--
 **KaleidoscopeIM/KaleidoscopeIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
