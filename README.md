@@ -10,6 +10,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KaleidoscopeIM)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaleidoscopeIM&theme=tokyonight)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaleidoscopeIM&show_icons=true&theme=tokyonight)
 
 <!--
